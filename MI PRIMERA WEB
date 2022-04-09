@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Escuela Virtual para personas con discapacidad</title>
+        <link rel="shortcut icon" href="img/discapacidades.png" type="image/x-icon">
+        <meta charset="utf-8"> 
+        <link rel="stylesheet" href="estilos css/index.css">
+        <body background="img/170c2e6dba116a7da225357c3a8b9bce.jpg" class="FFCECB">
+
+    </head>
+    <body>
+        <h1>Bienvenidos Jovenes y Niños</h1>
+        <p>
+            <cite>franklin salas ochoa</cite>
+            <blockquote>presento <span>soy franklin salas ochoa</span> el profesor qeu les va enseñar los <br>
+            cursos de <b>Comunicacion integra, matematicas, historia del peru.</b> <br>
+                soy de <i>quillabamba</i>, siempre quise crewar esta web para todos <br>
+                los chicos con discapacidad que se que tiene el mis mismo derecho como todos nosotros haré <br>
+            </blockquote> 
+                <ol>Docente</ol>
+                <ol>auxiliar</ol>
+                <ol>alumnos</ol>
+                <br>
+                <img height="500" width="800" src="img/ninos-y-jovenes-piden-mayor-respeto-y-apoyo-a-discapacitados-destaca-consulta.jpg" alt="es una imagen que enseña mucho"><br>
+                <a target="_blank" href="https://www.youtube.com/watch?v=Kietk_nMFfc">Enseñanza desde cero</a><br>
+                <a target="_blank" href="https://www.google.com">Ir a google</a><br>
+                
+
+         </p>
+         <hr>
+        <h3>los mejores somos nosotros</h3>
+        <blockquote>nuestros maestros nos dan la mejores facilidades para poder trabajar en nuestras empresas <br>
+            de modo que al culminar tus estudios estas preparado para el campo laboralen todo sentido</blockquote>  <br>
+        <img height="500" width="800" src="img/138513115-niños-discapacitados-discuten-estudiar-juntos.webp" alt="el intercambiar idesas te hace mejor">
+        <hr>
+    </body>
+</html>
